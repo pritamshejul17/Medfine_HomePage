@@ -1,5 +1,5 @@
 # Medfine_HomePage
-Created home page for Medical consultation firm
+Home page for Medical consultation firm
 Using HTML & CSS
 
 Here is how it looks
